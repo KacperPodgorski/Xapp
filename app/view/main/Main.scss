@@ -1,0 +1,31 @@
+.main {
+    .about {
+        p {
+            font-size: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-weight: bold;
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+        }
+        h3 {
+            text-align: center;
+            font-size: 16px;
+            padding: 0 80px 0 80px;
+        }
+           a {
+                text-decoration: none;
+                color: #4ABCDE;
+                font-size: 18px;
+               text-align: center;
+        }
+            
+            a:hover {
+                color: #FFE0B2;
+        }
+        
+    }
+}
